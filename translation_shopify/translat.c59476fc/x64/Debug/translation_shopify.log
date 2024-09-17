@@ -1,0 +1,3 @@
+﻿  translator.c
+C:\Users\LENOVO\Desktop\OOP244\translation_shopify\translator.c(54,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  translation_shopify.vcxproj -> C:\Users\LENOVO\Desktop\OOP244\translation_shopify\x64\Debug\translation_shopify.exe
