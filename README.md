@@ -1,12 +1,5 @@
 # Eng Intern Challenge Fall - Winter 2025
 
-# **Note: In order for our submission automation to function correctly:**
-1. **Your Github email must match the email you submitted your Application with (if your Github email is different, we recommend creating a new Github profile with the email you created your application with)**
-2. **Have your email set to public on your Github Profile**
-3. **Do not apply any labels on your PR. We will mark your PR as `reviewed` with a label when it has been so. Marking this yourself will cause your PR to be skipped.**
-
-**If you have any questions, please reach out to `internprogram@shopify.com`**
-
 ---
 
 ## Braille Translator
@@ -21,12 +14,6 @@ After conversion, output the translated string--and nothing else--to the termina
 ## What is Braille?
 Braille (*/breɪl/ **BRAYL***) is a tactile writing system used by people who are visually impaired. Braille characters are formed using a combination of six raised dots arranged in a 3 × 2 matrix, called the braille cell. The number and arrangement of these dots distinguishes one character from another. ([via Wikipedia](https://en.wikipedia.org/wiki/Braille))
 
-<p align='center'>
-  <img src='./braille.jpg' alt='Braille Alphabet' />
-</p>
-<p align='center'>
-  <em style='font-size:xx-small;'>Black dots represent raised areas</em>
-</p>
 
 ## Technical Requirements
 - Translator
